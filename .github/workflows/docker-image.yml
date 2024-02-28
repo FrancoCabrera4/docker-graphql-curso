@@ -32,7 +32,7 @@ jobs:
         
     - name: Push Docker image 
       run: |
-        docker push cabradev/docker-graphql-curso:0.0.2 .
+        docker push cabradev/docker-graphql-curso:0.0.2
 
 
 
